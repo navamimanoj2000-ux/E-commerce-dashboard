@@ -63,4 +63,4 @@ ecom/
 Improved skills in data cleaning, analysis, and visualization using Python.
 
 ## Author
-Navami Manoj
+Navami M S
